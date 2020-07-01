@@ -1,0 +1,27 @@
+# Copyright (C) 2019 Elated Themes
+# This file is distributed under the same license as the Academist Checkout plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Academist Checkout 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/academist-checkout\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-07-08T16:55:01+02:00\n"
+"PO-Revision-Date: 2019-07-08T16:55:01+02:00\n"
+"X-Generator: WP-CLI 2.0.1\n"
+"X-Domain: academist-checkout\n"
+
+#. Plugin Name of the plugin
+msgid "Academist Checkout"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin that adds custom post type to WooCommerce checkout"
+msgstr ""
+
+#. Author of the plugin
+msgid "Elated Themes"
+msgstr ""
